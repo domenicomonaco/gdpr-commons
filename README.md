@@ -16,7 +16,7 @@ Favorire la condivisione e la produzione di modelli semplificati di Informative 
 
 ## Come funziona?
 
-#### Più siamo, più sarà semplice
+> **Più siamo, più sarà semplice**
 
 ### Accedi
 Accedi al repository GitHub sfoglia tutti i modelli disponibili
