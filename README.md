@@ -15,6 +15,7 @@
 Favorire la condivisione e la produzione di modelli semplificati di Informative e Privacy Policy GDPR attraverso le politiche delle licenze Creative Commons
 
 ## Come funziona?
+
 #### Più siamo, più sarà semplice
 
 ### Accedi
