@@ -5,9 +5,7 @@
 
 ## L'iniziativa
 
-"[GDPR COMMONS](https://www.gdprcommons.it)" è un'iniziativa libera, aperta a tutti e ispirata all' [iniziativa del Granate della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) volta a semplificare le informative GDPR,
-
-Ma "[GDPR COMMONS](https://www.gdprcommons.it)" è totalmente indipendente e separata.
+[GDPR COMMONS](https://www.gdprcommons.it) è un'iniziativa libera, aperta a tutti e ispirata all' [iniziativa del Granate della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) volta a semplificare le informative GDPR, ma **[GDPR COMMONS](https://www.gdprcommons.it) è totalmente indipendente e separata.**
 
 ### Scopo
 
