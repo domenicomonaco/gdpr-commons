@@ -3,6 +3,9 @@
 ### Informative e Privacy Policy semplificate utilizzabili liberamente con licenze creative commons
 
 
+![GDPR Commons Logo](https://github.com/Tecnologie-per-Persone/gdpr-commons/blob/main/logo/logo-gdpr-commons-64.png?raw=true) 
+
+
 ## L'iniziativa
 
 [GDPR COMMONS](https://www.gdprcommons.it) è un'iniziativa libera, aperta a tutti e ispirata all' [iniziativa del Granate della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) volta a semplificare le informative GDPR, ma **[GDPR COMMONS](https://www.gdprcommons.it) è totalmente indipendente e separata.**
