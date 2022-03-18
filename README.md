@@ -33,19 +33,26 @@ Se hai aggiunto o corretto dei punti condividi i tuoi contribiti!
 # Come si partecipa ?
 1. Aggiungi alla fine del tuo documento il seguente avviso (comprensivo di collegamenti ipertestuali)
 
-> ### GDPR Commons
-> Questo documento partecipa all'iniziativa [GDPR COMMONS](https://www.gdprcommons.it), è quindi utilizzabile liberamente, a patto di essere privato dei dettagli sul presente applicativo, titolare e/o responsabili, con licenza **Creative Commons - Attribuzione e Condividi allo stesso modo**: [CC BY SA Legal Code](https://creativecommons.org/licenses/by-sa/3.0/legalcode.it), [CC BY SA Deed](https://creativecommons.org/licenses/by-sa/3.0/deed.it)
+> <h2 class="text-black mt-0"> GDPR Commons</h2>
+<p> Questo documento partecipa all'iniziativa <a href="https://www.gdprcommons.it">GDPR Commons</a> ed è liberamente riutilizzabile con licenza <b><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it">Creative Commons - BY SA 3.0</a></b>. Questo vale per tutte le parti del documento tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati a cui fa riferimento.</p>
+<hr/>
+<h4>Licenza d'uso</h4>
+<p><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it"> [CC BY SA] Legal Code</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">[CC BY SA] Deed</a></p>
+<hr />
+<p class="small text-muted">Il titolare del trattamento di questo documento è sollevato da qualcunque uso improprio, errori o utilizzo errato dello stesso. Per una corretta applicazione delle normative si rimanda alla consultazione delle fonti ufficiali.</p>
+
 > 
 > Questo disclaimer è obbligatorio per partecipare all'iniziativa
 
 #### Codice HTML
-	<p>Questo documento partecipa all'iniziativa 
-	<a href="https://gdprcommons.it">GDPR Commons</a>, 
-	è quindi utilizzabile liberamente, a patto di essere privato dei dettagli sul presente applicativo, 
-	titolare e/o responsabili, con licenza 
-	<b>Creative Commons - Attribuzione e Condividi allo stesso modo</b> 
-	<a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it">[CC BY SA] Legal Code</a>, 
-	<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">[CC BY SA] Deed</a></p>
+	<<h2 class="text-black mt-0"> GDPR Commons</h2>
+	<p> Questo documento partecipa all'iniziativa <a href="https://www.gdprcommons.it">GDPR Commons</a> ed è liberamente riutilizzabile con licenza <b><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it">Creative Commons - BY SA 3.0</a></b>. Questo vale per tutte le parti del documento tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati a cui fa riferimento.</p>
+	<hr/>
+	<h4>Licenza d'uso</h4>
+	<p><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it"> [CC BY SA] Legal Code</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">[CC BY SA] Deed</a></p>
+	<hr />
+	<p class="small text-muted">Il titolare del trattamento di questo documento è sollevato da qualcunque uso improprio, errori o utilizzo errato dello stesso. Per una corretta applicazione delle normative si rimanda alla consultazione delle fonti ufficiali.</p>
+
 	
 	
 # Se si desidera essere inseriti nella Wall of Fame
