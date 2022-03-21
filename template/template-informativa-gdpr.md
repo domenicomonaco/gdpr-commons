@@ -2,8 +2,8 @@
 
 - Versione v0.0.1
 - Ultimo aggiornamento 21/03/2022
-- Licenza d'uso: [Creative Commons BY-SA 3.0](https://www.gdprcommons.it)
-- Fonte: GDPR Commons <info@gdprcommons.it>
+- Licenza d'uso: [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.it)
+- Fonte: [GDPR Commons](https://www.gdprcommons.it) <info@gdprcommons.it>
 
 
 ### 1. Introduzione
