@@ -25,15 +25,13 @@ Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplific
 # Come si partecipa?
 1. Aggiungi alla fine del tuo documento il seguente avviso (comprensivo di collegamenti ipertestuali)
 
-> <h4 class="text-black mt-0"> GDPR Commons</h4>
-<p> Questo documento partecipa all'iniziativa <a href="https://www.gdprcommons.it">GDPR Commons</a>. È liberamente riutilizzabile con licenza <b><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it">Creative Commons - BY SA 3.0</a></b> in tutte le sue parti tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati. <b>Licenza d'uso</b><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it"> [CC BY SA] Legal Code</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">[CC BY SA] Deed</a></p>
-<p class="small text-muted"><a href="https://www.gdprcommons.it" target="_blank">GPDR Commons</a> ha lo scopo di favorire la diffusione di modelli di <b>Informative GPDR e Privacy Policy</b> semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di <a href="https://www.gdprcommons.it" target="_blank">GPDR Commons</a> si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a <em>Informative GDPR e Informative Privacy</em>.</p>
+> ### GDPR Commons Disclaimer
 
-#### Codice HTML
-	<h4 class="text-black mt-0"> GDPR Commons</h4>
-	<p> Questo documento partecipa all'iniziativa <a href="https://www.gdprcommons.it">GDPR Commons</a>. È liberamente riutilizzabile con licenza <b><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it">Creative Commons - BY SA 3.0</a></b> in tutte le sue parti tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati. <b>Licenza d'uso</b><a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode.it"> [CC BY SA] Legal Code</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">[CC BY SA] Deed</a></p>
-	<p class="small text-muted"><a href="https://www.gdprcommons.it" target="_blank">GPDR Commons</a> ha lo scopo di favorire la diffusione di modelli di <b>Informative GPDR e Privacy Policy</b> semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di <a href="https://www.gdprcommons.it" target="_blank">GPDR Commons</a> si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a <em>Informative GDPR e Informative Privacy</em>.</p>
-	
+> Questo documento partecipa all'iniziativa [GDPR Commons](https://www.gdprcommons.it). È liberamente riutilizzabile con licenza **Creative Commons - BY SA 3.0** in tutte le sue parti tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati. **Licenza d'uso**: [CC BY SA Legal Code](https://creativecommons.org/licenses/by-sa/3.0/legalcode.it) - [CC BY SA Deed](https://creativecommons.org/licenses/by-sa/3.0/deed.it).
+
+> [GPDR Commons](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di **Informative GPDR e Privacy Policy** semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di[GPDR Commons](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a *Informative GDPR e Informative Privacy*
+
+
 # Per essere inseriti nella Wall of Fame
 2. Dopo aver aggiunto l'avviso è necessario contattarci , indicando la URL del documento dimostrando di esserne i Titolari o chi legalmente ne può fare le veci.
 
