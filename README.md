@@ -32,7 +32,7 @@ Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplific
 > [GPDR Commons](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di **Informative GPDR e Privacy Policy** semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di[GPDR Commons](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a *Informative GDPR e Informative Privacy*
 
 
-# Per essere inseriti nella Wall of Fame
+# Wall of Fame
 2. Dopo aver aggiunto l'avviso è necessario contattarci , indicando la URL del documento dimostrando di esserne i Titolari o chi legalmente ne può fare le veci.
 
 3. Se tutto è corretto, sarete inseriti nella [lista dei partecipanti](https://gdprcommons.it/walloffame.html) all'iniziativa, dal più recente al meno recente
