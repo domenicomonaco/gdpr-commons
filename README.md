@@ -12,7 +12,7 @@
 
 ### Scopo
 
-Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibil
+Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili
 
 
 ## Come funziona?
