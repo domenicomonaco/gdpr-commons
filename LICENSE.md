@@ -1,6 +1,6 @@
 Creative Commons Legal Code
 
-Author: Domenico Monaco - domenico@tecnologieperpesone.it
+Author: Domenico Monaco <domenico@tecnologieperpesone.it>
 
 Attribution 4.0 International
 
