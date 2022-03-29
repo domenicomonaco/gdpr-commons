@@ -14,28 +14,21 @@
 
 Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili
 
-## Come funziona?
+### Componenti del progetto
+* TESTI
+	* [GDPR COMMONS TEXT v.0.0.2](https://github.com/Tecnologie-per-Persone/gdpr-commons/tree/main/template)
+* CODICE WEB
+	* [GDPR COMMONS CODE v.0.0.1](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
+* ICONE
 
-- Accedi al repository GitHub e sfoglia tutti i modelli disponibili
-- Modifica il modello secondo le tue necessità
-- Pubblica tuo cocumento
-- Condividi con la community la tua soluzione
 
-# Come si partecipa?
 
-1. Aggiungi alla fine del tuo documento il seguente avviso (comprensivo di collegamenti ipertestuali)
+# Rendi pubblica la tua Pivacy Policy
 
-> ### GDPR Commons Disclaimer
+1. Aggiugendo questo disclaimer renderai riutilizzable la tua Privacy Policy
 
-> Questo documento partecipa all'iniziativa [GDPR Commons](https://www.gdprcommons.it). È liberamente riutilizzabile con licenza **Creative Commons - BY SA 3.0** in tutte le sue parti tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati. **Licenza d'uso**: [CC BY SA Legal Code](https://creativecommons.org/licenses/by-sa/3.0/legalcode.it) - [CC BY SA Deed](https://creativecommons.org/licenses/by-sa/3.0/deed.it).
+	* Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/gdpr-commons/blob/main/template/disclarimer-gdpr-commons.md)
 
-> [GPDR Commons](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di **Informative GPDR e Privacy Policy** semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di[GPDR Commons](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a _Informative GDPR e Informative Privacy_
-
-# Wall of Fame
-
-2. Dopo aver aggiunto l'avviso è necessario contattarci , indicando la URL del documento dimostrando di esserne i Titolari o chi legalmente ne può fare le veci.
-
-3. Se tutto è corretto, sarete inseriti nella [lista dei partecipanti](https://gdprcommons.it/walloffame.html) all'iniziativa, dal più recente al meno recente
 
 # Chi siamo
 
