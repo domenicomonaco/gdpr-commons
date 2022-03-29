@@ -16,10 +16,11 @@ Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplific
 
 ### Componenti del progetto
 * TESTI
-	* [GDPR COMMONS TEXT v.0.0.2](https://github.com/Tecnologie-per-Persone/gdpr-commons/tree/main/template)
+	* [GDPR COMMONS TEXT v.0.0.2](hhttps://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
 	* [GDPR COMMONS CODE v.0.0.1](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
 * ICONE
+	* [GDPR COMMONS ICON v.0.0.0](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
 
 
 
