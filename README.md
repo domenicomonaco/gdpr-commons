@@ -8,13 +8,11 @@
 
 ## L'iniziativa
 
-[GDPR COMMONS](https://www.gdprcommons.it) è un'iniziativa libera, aperta a tutti e ispirata all' [iniziativa del Granate della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) volta a semplificare le informative GDPR, ma **[GDPR COMMONS](https://www.gdprcommons.it) è totalmente indipendente e separata.**
+[GDPR COMMONS](https://www.gdprcommons.it) ha l'obiettivo di favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili liberamente riutilizzabili attravero le licence Creative Commons.
 
-### Scopo
+[GDPR COMMONS](https://www.gdprcommons.it) è un'iniziativa libera, aperta a tutti e ispirata all' [iniziativa](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) del Garante della Privacy ma **è totalmente indipendente e separata.**
 
-Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili
-
-### Componenti del progetto
+### GDPR Commons Stater Kit
 * TESTI
 	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
