@@ -2,7 +2,7 @@
 
 ### Modelli di informative e Privacy Policy semplificate utilizzabili liberamente con licenze Creative Commons
 
-![GDPR Commons Logo](https://github.com/Tecnologie-per-Persone/gdpr-commons/blob/main/logo/logo-gdpr-commons-64.png?raw=true)
+![GDPR Commons Logo](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon/blob/main/logo/logo-gdpr-commons-64.png?raw=true)
 
 [info@gdprcommons.it](mailto:info@gdprcommons.it)
 
@@ -16,13 +16,11 @@ Favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplific
 
 ### Componenti del progetto
 * TESTI
-	* [GDPR COMMONS TEXT v.0.0.2](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
+	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
-	* [GDPR COMMONS CODE v.0.0.1](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
+	* [GDPR COMMONS CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
 * ICONE
-	* [GDPR COMMONS ICON v.0.0.0](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
-
-
+	* [GDPR COMMONS ICON](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
 
 # Rendi pubblica la tua Pivacy Policy
 
