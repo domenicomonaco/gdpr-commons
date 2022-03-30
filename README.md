@@ -13,6 +13,7 @@
 [GDPR COMMONS](https://www.gdprcommons.it) è un'iniziativa libera, aperta a tutti e ispirata all' [iniziativa](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) del Garante della Privacy ma **è totalmente indipendente e separata.**
 
 ### GDPR Commons Stater Kit
+
 * TESTI
 	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
@@ -24,23 +25,21 @@
 
 1. Aggiugendo questo disclaimer renderai riutilizzable la tua Privacy Policy
 
-	* Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/gdpr-commons/blob/main/template/disclarimer-gdpr-commons.md)
+* Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/gdpr-commons/blob/main/template/disclarimer-gdpr-commons.md)
 
 
-# Chi siamo
+### Chi siamo
 
 L'iniziativa è gestita da [Tecnologie per Persone di Domenico Monaco](https://www.gdprcommons.it/#:~:text=%C3%A8%20gestita%20da-,Tecnologie%20per%20Persone%20di%20Domenico%20Monaco,-ma%20chiunque%20pu%C3%B2) ma chiunque può partecipare. Scrivici e indica le modalità con cui vuoi partecipare
 
-# Avvertenza
+### Avvertenza
 
 L'iniziativa non è in nessun modo collegata con il progetto [Creative Commons](https://creativecommons.it/chapterIT) né con le organizzazioni governative [Garante Privacy](https://www.garanteprivacy.it/) e [Commissione Europea](https://europa.eu/)
 
-## Responsabilità
+### Responsabilità
 
-[GDPR COMMONS](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali.
+[GPDR Commons](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di **Informative GPDR e Privacy Policy** semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di [GPDR Commons](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a *Informative GDPR e Informative Privacy*
 
-L'iniziativa [GDPR COMMONS](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a Informative GDPR e Informative Privacy.
-
-# Licenza
+### Licenza
 
 - [**Creative Commons - Attribuzione e Condividi allo stesso modo**](https://github.com/Tecnologie-per-Persone/gdpr-commons#:~:text=2%20days%20ago-,LICENSE.md,-license%2C%20readme%2C%20logo)
