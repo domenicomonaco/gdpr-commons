@@ -25,7 +25,9 @@
 
 1. Aggiugendo questo disclaimer renderai riutilizzable la tua Privacy Policy
 
-* Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/gdpr-commons/blob/main/template/disclarimer-gdpr-commons.md)
+* Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text/blob/main/testi/02_disclarimer-gdpr-commons.md)
+
+* Link: [avvertenza-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text/blob/main/testi/03_avvertenza-gdpr-commons.md)
 
 
 ### Chi siamo
