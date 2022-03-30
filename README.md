@@ -16,7 +16,7 @@
 
 Lo **Starter Kit del GDPR Commons** fornisce alcuni elementi (non tutti) per rendere *GDPR Compliance* la propria applicazione web.
 
-E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure è possibile visionare i relativi sorgenti che lo compongono attraverso i seguenti repository.
+E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure è possibile visionare i sorgenti che lo compongono accedendo ai relativi repository.
 
 * TESTI
 	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
