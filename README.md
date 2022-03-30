@@ -14,6 +14,10 @@
 
 ### GDPR Commons Stater Kit
 
+Lo **Starter Kit del GDPR Commons** fornisce il materiale di base per poter rendere la propria applicazion web *GDPR Compliance*.
+
+E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure è possibile visionare i relativi sorgenti che lo compongono attraverso i seguenti repository.
+
 * TESTI
 	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
