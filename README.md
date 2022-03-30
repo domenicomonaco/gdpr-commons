@@ -27,7 +27,7 @@ E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella
 
 # Rendi pubblica la tua Pivacy Policy
 
-1. Aggiugendo questo disclaimer renderai riutilizzable la tua Privacy Policy
+1. Aggiugendo questi disclaimer renderai riutilizzable la tua Privacy Policy
 
 * Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text/blob/main/testi/02_disclarimer-gdpr-commons.md)
 
