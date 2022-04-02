@@ -1,6 +1,6 @@
 {
     "name": "gdpr-commons-code",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Snippet di codice per l'integrazione web delle varie componenti informative e di consenso richieste dal GDPR",
     "main": "index.html",
     "repository": {
