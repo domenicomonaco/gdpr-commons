@@ -6,10 +6,3 @@ import exampleImg from './assets/example.svg'
 
 import 'bootstrap';
 import 'jquery';
-
-const exlImg = document.getElementById('main-img')
-exlImg.src = exampleImg
-exlImg.width = '200'
-
-const exlTitle = document.getElementById('title')
-exlTitle.textContent = showInfo(vlad)

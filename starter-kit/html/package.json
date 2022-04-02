@@ -13,9 +13,7 @@
     "bugs": {
         "url": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-code/issues"
     },
-
     "homepage": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-code/#readme",
-
     "scripts": {
         "watch": "webpack --watch",
         "build": "webpack",
