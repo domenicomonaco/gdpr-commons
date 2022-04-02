@@ -1,0 +1,73 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../node_modules/bootstrap/scss/bootstrap-grid.scss';
+@import '../../node_modules/bootstrap/scss/bootstrap-reboot.scss';
+@import '../../node_modules/bootstrap/scss/bootstrap-utilities.scss';
+@import '../../node_modules/bootstrap-icons/font/bootstrap-icons.css';
+.modal-dialog.modal-content {
+    border-radius: 5px;
+}
+
+.modal-dialog.buttons.btn {
+    min-width: 100px;
+    margin: 0.2rem;
+}
+
+.modal-dialog .close {
+    font-size: 20px;
+}
+
+.gdpr_modal .modal-header {
+    background: #ededed !important;
+}
+
+.gdpr_semn {
+    text-transform: uppercase;
+}
+
+.gdpr_semn>div {
+    display: inline-table;
+    vertical-align: middle;
+}
+
+.gdpr_semn>div:nth-of-type(1) {
+    height: 24px;
+    text-align: left;
+    padding-left: 4px;
+    background-size: contain;
+    color: #214fe0;
+}
+
+.gdpr_semn .fa {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 26px
+}
+
+.gdpr_semn small {
+    font-size: 9px;
+    opacity: 0.6
+}
+
+.gdprcommons-fixedicon {
+    .fixedicon {
+        position: fixed;
+        bottom: 40px;
+        right: 40px;
+        background-color: $primary;
+        color: #000;
+        border-radius: 50px;
+        text-align: center;
+        box-shadow: 2px 2px 3px #333;
+        width: 60px;
+        height: 60px;
+        text-align: center;
+        .icon {
+            color: $white;
+            display: block;
+            margin-top: 18px;
+            margin-left: 2px;
+            line-height: 1;
+            font-size: 25px;
+        }
+    }
+}
