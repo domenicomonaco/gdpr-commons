@@ -25,7 +25,7 @@ E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella
 * ICONE
 	* [GDPR COMMONS ICON](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
 
-# Rendi pubblica la tua Pivacy Policy
+# Rendi pubblica la tua Privacy Policy
 
 1. Aggiugendo questi disclaimer renderai riutilizzable la tua Privacy Policy
 
