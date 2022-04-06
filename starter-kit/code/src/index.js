@@ -5,19 +5,27 @@ import './styles/main.scss'
 import './styles/style.css'
 
 $ = window.$ = window.jQuery = require('jquery');
-require('bootstrap');
+
 require('jquery');
+require('bootstrap');
+require('@fortawesome/fontawesome-free');
 
-const classnotice = '.gdprcommons-notice';
-const classfixedicon = '.gdprcommons-fixedicon';
+function cookieAlert() {
+    // Configuration of classes
+    const classnotice = '.gdprcommons-notice';
+    const classfixedicon = '.gdprcommons-fixedicon';
 
-const gdprcommonsnotice = $(classnotice).html(cookiemodal);
-const gdprcommonsfixedicon = $(classfixedicon).html(fixedicon);
+    // Add content to DIVs
+    const gdprcommonsnotice = $(classnotice).html(cookiemodal);
+    const gdprcommonsfixedicon = $(classfixedicon).html(fixedicon);
 
-function showCookieAlert() {
-    $('#cookieModal').modal('show');
+    function showCookieAlert() {
+        $(classnotice + ' .modal').modal('show');
+    }
+
+    $(classfixedicon + ' .fixedicon').on('click', function() {
+        showCookieAlert();
+    });
 }
 
-$('.gdprcommons-fixedicon .open-notice').on('click', function() {
-    showCookieAlert();
-});
+cookieAlert();
