@@ -19,12 +19,12 @@ Lo **Starter Kit del GDPR Commons** fornisce alcuni elementi (non tutti) per ren
 E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure è possibile visionare i sorgenti che lo compongono accedendo ai relativi repository.
 
 * TESTI
-	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
+	* [SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
-	* [GDPR COMMONS SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
-	* [GDPR COMMONS NODE PACKAGE](https://www.npmjs.com/package/gdpr-commons-code)
+	* [SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
+	* [NODE PACKAGE](https://www.npmjs.com/package/gdpr-commons-code)
 * ICONE
-	* [GDPR COMMONS ICON](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
+	* [SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
 
 # Rendi pubblica la tua Privacy Policy
 
