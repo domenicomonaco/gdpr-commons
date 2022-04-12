@@ -21,7 +21,8 @@ E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella
 * TESTI
 	* [GDPR COMMONS TEXT](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
 * CODICE WEB
-	* [GDPR COMMONS CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
+	* [GDPR COMMONS SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
+	* [GDPR COMMONS NODE PACKAGE](https://www.npmjs.com/package/gdpr-commons-code)
 * ICONE
 	* [GDPR COMMONS ICON](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
 
