@@ -3,7 +3,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h5>
-                    <i class="fa-solid fa-user-lock icon" aria-hidden="true"></i> Informativa Cookie </b>
+                    <i class="fa-solid fa-user-lock icon" aria-hidden="true"></i> <span id="textTitleModal"></span> </b>
                 </h5>
                 <button type="button" class="btn btn-sm close" data-dismiss="modal" aria-label="Chiudi">
                     <i class="fas fa-times" aria-hidden="true"></i>
@@ -11,21 +11,21 @@
             </div>
             <div class="modal-body">
                 <div class="notice text-justify">
-                    Questo sito utilizza ....
+                    <span id="textAbstractModal"></span>
                 </div>
 
                 <div class="small mt-2 text-muted">
                     <i class="fas fa-check-double" aria-hidden="true"></i> Data ultimo consenso: <span class="last-consent-date"><em>non disponibile</em></span>
-                    <a id="delete_cookie" href="#EliminaUltimoConsenso"><i class="fas fa-trash-alt"></i> elimina</a>
+                    <a id="delete_cookie" href="#EliminaUltimoConsenso"><i class="fas fa-trash-alt"></i> <span id="textButtonResetCookie"></span></a>
                 </div>
             </div>
 
             <div class="modal-footer justify-content-between">
-                <a class="btn btn-secondary btn-sm float-left" alt="Privacy Policy" href="./privacy_policy.html" target="_blank">
-                    <i class="fas fa-file-contract" aria-hidden="true"></i> Leggi l'informativa
+                <a class="btn btn-secondary btn-sm float-left" id="linkPrivacyPolicy" alt="Privacy Policy" href="./privacy_policy.html" target="_blank">
+                    <i class="fas fa-file-contract" aria-hidden="true"></i> <span id="textButtonOpenPolicy"></span>
                 </a>
 
-                <a id="accept_policy" class="btn btn-primary btn-sm float-end" data-dismiss="modal"><i class="fas fa-user-check" aria-hidden="true"></i> Ho capito</a>
+                <a id="accept_policy" class="btn btn-primary btn-sm float-end" data-dismiss="modal"><i class="fas fa-user-check" aria-hidden="true"></i> <span id="textButtonAccept"></span></a>
 
                 <div class="col-12">
                     <small class="small text-muted">Generata con <a title="GDPR Commons" href="https://www.gdprcommons.it" target="_blank">GDPR Commons</a></small>

@@ -101,9 +101,53 @@ function cookieAlert(config = null) {
             showCookieAlert();
         }
     }
+
+    if (config) {
+        if (config.text) {
+            if (config.text.linkPrivacyPolicy) {
+                $('#linkPrivacyPolicy').attr("href", config.text.linkPrivacyPolicy);
+            } else {
+                $('#linkPrivacyPolicy').attr("href", '/');
+            }
+            if (config.text.textTitleModal) {
+                $('#textTitleModal').html(config.text.textTitleModal);
+            } else {
+                $('#textTitleModal').html('example title');
+            }
+            if (config.text.textAbstractModal) {
+                $('#textAbstractModal').html(config.text.textAbstractModal);
+            } else {
+                $('#textAbstractModal').html('example abstract');
+            }
+            if (config.text.textButtonAccept) {
+                $('#textButtonAccept').html(config.text.textButtonAccept);
+            } else {
+                $('#textButtonAccept').html('accept example');
+            }
+            if (config.text.textButtonOpenPolicy) {
+                $('#textButtonOpenPolicy').html(config.text.textButtonOpenPolicy);
+            } else {
+                $('#textButtonOpenPolicy').html('example open policy');
+            }
+            if (config.text.textButtonResetCookie) {
+                $('#textButtonResetCookie').html(config.text.textButtonResetCookie);
+            } else {
+                $('#textButtonResetCookie').html('example delete');
+            }
+        }
+    }
 }
 
 const config = {
+    text: {
+        linkPrivacyPolicy: "http://www.gdprcommons.it",
+        textTitleModal: "Informativa Cookie",
+        textAbstractModal: "Questo sito utilizza esclusivamente cookie e/o altri strumenti di tracciamento di tipo tecnico o analitici al solo scopo di analisi statistica del traffico senza risalire all'identità del singolo utente. In oltre, non raccoglie informazioni personali in modo automatico senza esplicito consenso. In alcuni casi sono utilizzate risorse esterne. Ai fini legislativi, a scopo informativo si chiede la consultazione della Privacy Policy e proseguire cliccando su \'Ho capito\'",
+        textButtonAccept: "Ho capito",
+        textButtonOpenPolicy: "Leggi l\'informativa",
+        textButtonResetCookie: "elimina",
+    },
+
     modal: {
         showOnPageLoad: 'cookie', // ever | cookie
     },
