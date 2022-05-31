@@ -1,4 +1,4 @@
-# <img align="left" style="margin:5px" src="https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon/blob/main/logo/logo-gdpr-commons-64.png?raw=true" height="32" /> [GDPR COMMONS](https://www.gdprcommons.it)
+# <img align="left" style="margin:5px" src="https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon/blob/main/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS](https://www.gdprcommons.it)
 
 ## Modelli di informative e Privacy Policy semplificate
 
