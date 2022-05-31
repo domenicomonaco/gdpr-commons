@@ -1,6 +1,6 @@
 # [GDPR COMMONS](https://www.gdprcommons.it)
 
-### Modelli di informative e Privacy Policy semplificate utilizzabili liberamente con licenze Creative Commons
+### Modelli di informative e Privacy Policy semplificate
 
 ![GDPR Commons Logo](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon/blob/main/logo/logo-gdpr-commons-64.png?raw=true)
 
