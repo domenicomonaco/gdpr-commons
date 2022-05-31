@@ -1,0 +1,24 @@
+{
+    "name": "gdpr-commons-text",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tecnologie-per-Persone/GDPR-Commons-text.gitt"
+    },
+    "keywords": [],
+    "author": "Tecnologie per Persone di Domenico Monaco",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-text/issues"
+    },
+    "homepage": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-text#readme",
+    "devDependencies": {
+        "concat-md": "^0.3.8",
+        "serve": "^11.2.0"
+    }
+}

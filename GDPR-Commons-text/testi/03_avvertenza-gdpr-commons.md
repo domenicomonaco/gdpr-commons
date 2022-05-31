@@ -1,0 +1,3 @@
+### Avvertenza responsabilità
+
+[GPDR Commons](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di **Informative GPDR e Privacy Policy** semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di [GPDR Commons](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a *Informative GDPR e Informative Privacy*

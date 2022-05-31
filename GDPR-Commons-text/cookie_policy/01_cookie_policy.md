@@ -1,0 +1,13 @@
+### Gestione e cancellazione dei Cookie
+
+In aggiunta a quanto indicato in questo documento, ti informiamo che gli Utenti potrebbero voler limitare l’uso dei cookie o impedire completamente che vengano impostati. La maggior parte dei browser consente di controllare il comportamento dei cookie, ad esempio il tempo di archiviazione, tramite funzionalità integrate o utilizzando plug-in di terze parti. Tramite le preferenze del browser è inoltre possibile eliminare i Cookie installati in passato, incluso il Cookie in cui venga eventualmente salvato il consenso all’installazione di Cookie da parte di questo sito. Se disabiliti i cookie, tieni presente che alcune delle funzionalità del nostro servizio potrebbero non funzionare correttamente. Puoi può trovare informazioni su come gestire i Cookie nel tuo browser ai seguenti indirizzi: Google Chrome, Mozilla Firefox, Apple Safari e Microsoft Windows Explorer. Per saperne di più su come gestire e cancellare i cookie, visita aboutcookies.org. Per maggiori dettagli sulle tue scelte in merito all’utilizzo della tua attività di navigazione web per la pubblicità basata sugli interessi visita il sito youronlinechoices.eu (basato su UE) o optout.aboutads.info (basato negli Stati Uniti). Su un dispositivo mobile, potresti anche modificare le impostazioni per limitare il monitoraggio degli annunci. Puoi disattivare Google Analytics installando il componente aggiuntivo del browser per la disattivazione di Google.
+
+In caso di servizi erogati da terze parti, l’utente può inoltre esercitare il proprio diritto ad opporsi al tracciamento informandosi tramite la privacy policy della terza parte, tramite il link di opt out se esplicitamente fornito o contattando direttamente la stessa.
+
+ 
+
+### Titolarità del trattamento dei Cookie
+
+Dal momento che l’installazione di Cookie e di altri sistemi di tracciamento operata da terze parti tramite i servizi utilizzati all’interno di questo sito non può essere tecnicamente controllata dal presente sito, ogni riferimento specifico a Cookie e sistemi di tracciamento installati da terze parti è da considerarsi indicativo. Per ottenere informazioni complete, consultare la privacy policy degli eventuali servizi terzi elencati in questo documento.
+
+Vista l’oggettiva complessità legata all’identificazione delle tecnologie basate sui Cookie ed alla loro integrazione molto stretta con il funzionamento del web, l’utente è invitato a contattare il titolare del trattamento qualora volesse ricevere qualunque approfondimento relativo all’utilizzo dei Cookie stessi e ad eventuali utilizzi degli stessi – ad esempio ad opera di terzi – effettuati tramite questo sito.

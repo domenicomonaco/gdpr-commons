@@ -1,0 +1,40 @@
+/** Imports **/
+
+@import 'imports.scss';
+
+/** Custom style start here **/
+
+.gdpr_modal.modal-dialog {
+    .modal-header {
+        background: #ededed;
+    }
+    .close {
+        font-size: 20px;
+    }
+    .gdpr_semn {
+        /** **/
+    }
+}
+
+.gdprcommons-fixedicon {
+    .fixedicon {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: $primary;
+        color: #000;
+        border-radius: 100%;
+        text-align: center;
+        box-shadow: 2px 2px 3px #333;
+        width: 60px;
+        height: 60px;
+        .icon {
+            color: $white;
+            display: block;
+            margin-top: 18px;
+            margin-left: 2px;
+            line-height: 1;
+            font-size: 25px;
+        }
+    }
+}

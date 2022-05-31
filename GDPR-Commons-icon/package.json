@@ -1,0 +1,23 @@
+{
+    "name": "gdpr-commons-icon",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon.gitt"
+    },
+    "keywords": [],
+    "author": "Tecnologie per Persone di Domenico Monaco",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon/issues"
+    },
+    "homepage": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon#readme",
+    "devDependencies": {
+        "serve": "^11.2.0"
+    }
+}

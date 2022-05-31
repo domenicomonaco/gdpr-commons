@@ -1,0 +1,3 @@
+### GDPR Commons Disclaimer
+
+Questo documento partecipa all'iniziativa [GDPR Commons](https://www.gdprcommons.it). È liberamente riutilizzabile con licenza **Creative Commons - BY SA 3.0** in tutte le sue parti tranne per i dettagli sul titolare del trattamento, eventuali responsabili e informazioni sull'applicativo e brand collegati. **Licenza d'uso:** [CC BY SA Legal Code](https://creativecommons.org/licenses/by-sa/3.0/legalcode.it) - [CC BY SA Deed](https://creativecommons.org/licenses/by-sa/3.0/deed.it).
