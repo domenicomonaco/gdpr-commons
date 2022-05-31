@@ -22,24 +22,7 @@
 
 Lo **Starter Kit del GDPR Commons** fornisce alcuni elementi (non tutti) per rendere *GDPR Compliance* la propria applicazione web.
 
-E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure è possibile visionare i sorgenti che lo compongono accedendo ai relativi repository.
-
-* TESTI
-	* [SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text)
-* CODICE WEB
-	* [SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
-	* [NODE PACKAGE](https://www.npmjs.com/package/gdpr-commons-code)
-* ICONE
-	* [SOURCE CODE](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon)
-
-# Rendi pubblica la tua Privacy Policy
-
-1. Aggiugendo questi disclaimer renderai riutilizzable la tua Privacy Policy
-
-* Link: [disclarimer-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text/blob/main/testi/02_disclarimer-gdpr-commons.md)
-
-* Link: [avvertenza-gdpr-commons.md](https://github.com/Tecnologie-per-Persone/GDPR-Commons-text/blob/main/testi/03_avvertenza-gdpr-commons.md)
-
+E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure attraverso le rispettive componenti: JS Plug-in, Icon e Text.
 
 ### Chi siamo
 
@@ -55,4 +38,4 @@ L'iniziativa non è in nessun modo collegata con il progetto [Creative Commons](
 
 ### Licenza
 
-- [**Creative Commons - Attribuzione e Condividi allo stesso modo**](https://github.com/Tecnologie-per-Persone/gdpr-commons#:~:text=2%20days%20ago-,LICENSE.md,-license%2C%20readme%2C%20logo)
+- [**Creative Commons - Attribuzione e Condividi allo stesso modo**](LICENSE.md)
