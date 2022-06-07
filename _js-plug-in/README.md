@@ -1,6 +1,6 @@
 # [GDPR COMMONS CODE](https://www.gdprcommons.it)
 
-![GDPR Commons Logo](https://github.com/Tecnologie-per-Persone/GDPR-Commons-icon/blob/main/logo/logo-gdpr-commons-64.png?raw=true)
+![GDPR Commons Logo](https://github.com/domenicomonaco/gdpr-commons/tree/main/_icon/logologo-gdpr-commons-64.png?raw=true)
 
 [info@gdprcommons.it](mailto:info@gdprcommons.it)
 
@@ -26,7 +26,7 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 
 * CDN Pubblica: [https://www.cdn.gdprcommons.it/
 ](https://www.cdn.gdprcommons.it/)
-* NPM Module: [https://www.npmjs.com/package/gdpr-commons-code](https://www.npmjs.com/package/gdpr-commons-code)
+* NPM Module: [https://www.npmjs.com/package/gdpr-commons-js-plug-in](https://www.npmjs.com/package/gdpr-commons-js-plug-in)
 
 
 ## Installazione modulo NODE 
@@ -79,10 +79,10 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 ## GDPR Code
 
 * Node package:
-[https://www.npmjs.com/package/gdpr-commons-code](https://www.npmjs.com/package/gdpr-commons-code)
+[https://www.npmjs.com/package/gdpr-commons-js-plug-in](https://www.npmjs.com/package/gdpr-commons-js-plug-in)
 
 * Source code:
-[https://github.com/Tecnologie-per-Persone/GDPR-Commons-code](https://github.com/Tecnologie-per-Persone/GDPR-Commons-code)
+[https://github.com/domenicomonaco/gdpr-commons/](https://github.com/domenicomonaco/gdpr-commons/)
 
 ## MIT License
 
