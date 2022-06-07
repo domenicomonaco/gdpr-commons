@@ -28,9 +28,10 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 
 1. installa modulo
 	
-		npm i --save-dev gdpr-commons-js-plug-in
+	npm i --save-dev gdpr-commons-js-plug-in
 
 2. importa css e js
+
 	"use strict";
 	import { cookieAlert } from './cookieAlert.js';
 
@@ -61,7 +62,9 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 			}
 		};
 
-		cookieAlert(config);
+		window.onload = function() {
+			cookieAlert(config);
+		};
 	
 
 ## Ouput

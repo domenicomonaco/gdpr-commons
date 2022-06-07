@@ -20,4 +20,6 @@ const config = {
     }
 };
 
-cookieAlert(config);
+window.onload = function() {
+    cookieAlert(config);
+};

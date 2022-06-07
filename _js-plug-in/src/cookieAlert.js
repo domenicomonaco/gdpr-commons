@@ -74,6 +74,7 @@ export function cookieAlert(config = null) {
     }
 
     $(classnotice + ' #accept_policy').on('click', function() {
+        console.log('accepted');
         cookieValue.accepted = true;
         setCookie(cookiename, cookieValue);
         $(classnotice + ' .modal').modal('hide');
@@ -81,6 +82,7 @@ export function cookieAlert(config = null) {
 
     $(classnotice + ' #delete_cookie').on('click', function() {
         eraseCookie(cookiename);
+        console.log('erased');
         $(classnotice + ' .last-consent-date').html('non disponibile');
     });
 
@@ -98,6 +100,7 @@ export function cookieAlert(config = null) {
         showCookieAlert();
 
     } else if (config.modal.showOnPageLoad == modalsho_cookie) {
+        console.log(getCookie(cookiename));
         if (getCookie(cookiename) == null) {
             showCookieAlert();
         }

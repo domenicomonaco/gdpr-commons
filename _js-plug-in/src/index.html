@@ -16,6 +16,7 @@
     <div class="gdprcommons-notice"></div>
 
     <pre>        
+
         const config = {
             text: {
                 linkPrivacyPolicy: "http://www.gdprcommons.it",
@@ -25,17 +26,19 @@
                 textButtonOpenPolicy: "Leggi l\'informativa",
                 textButtonResetCookie: "elimina",
             },
-
+        
             modal: {
-                showOnPageLoad: 'cookie', // ever | cookie
+                showOnPageLoad: 'cookie',
             },
-
+        
             fixedicon: {
                 show: true
             }
         };
-
-        cookieAlert(config);
+        
+        window.onload = function() {
+            cookieAlert(config);
+        };
     </pre>
 </body>
 
