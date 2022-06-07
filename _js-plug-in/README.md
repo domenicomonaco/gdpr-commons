@@ -28,7 +28,7 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 
 1. installa modulo
 	
-		npm i --save-dev gdpr-commons-code
+		npm i --save-dev gdpr-commons-js-plug-in
 
 2. importa css e js
 	"use strict";
