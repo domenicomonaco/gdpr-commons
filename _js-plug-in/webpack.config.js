@@ -25,6 +25,11 @@ module.exports = {
         filename: slug + '.' + version + '.js',
         assetModuleFilename: 'assets/[hash][ext][query]',
         clean: true,
+        library: {
+            name: 'MyLibrary',
+            type: 'umd',
+            umdNamedDefine: true,
+        }
     },
     module: {
         rules: [{
@@ -71,6 +76,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: './src/index.html',
+            scriptLoading: "blocking"
         }),
         new MiniCssExtractPlugin({
             filename: slug + '.' + version + '.css',

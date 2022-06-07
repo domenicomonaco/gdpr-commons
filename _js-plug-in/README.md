@@ -31,10 +31,8 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 		npm i --save-dev gdpr-commons-code
 
 2. importa css e js
-
-		<script defer src="<gdpr-commons-code module>/dist/gdprcommons.<VERSION>.js"></script>
-		<link href="<gdpr-commons-code module>/dist/gdprcommons.<VERSION>.css" rel="stylesheet"></head>
-	
+	"use strict";
+	import { cookieAlert } from './cookieAlert.js';
 
 3. Aggiunti al tuo codice HTML i seguenti due div
 
@@ -44,29 +42,26 @@ GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel prop
 
 4. configura e lancia script
 
-		<script>
-		    const config = {
-		    text: {
-		            linkPrivacyPolicy: "http://www.gdprcommons.it",
-		            textTitleModal: "Informativa Cookie",
-		            textAbstractModal: "Questo sito utilizza esclusivamente cookie e/o altri strumenti di tracciamento di tipo tecnico o analitici al solo scopo di analisi statistica del traffico senza risalire all'identità del singolo utente. In oltre, non raccoglie informazioni personali in modo automatico senza esplicito consenso. In alcuni casi sono utilizzate risorse esterne. Ai fini legislativi, a scopo informativo si chiede la consultazione della Privacy Policy e proseguire cliccando su \'Ho capito\'",
-		            textButtonAccept: "Ho capito",
-		            textButtonOpenPolicy: "Leggi l\'informativa",
-		            textButtonResetCookie: "elimina",
-		        },
-		
-		        modal: {
-		            showOnPageLoad: 'cookie', // ever | cookie
-		        },
-		
-		        fixedicon: {
-		            show: true
-		        }
-		    };
-		
-		    cookieAlert(config);
-		
-		    </script>
+	const config = {
+		text: {
+			linkPrivacyPolicy: "http://www.gdprcommons.it",
+			textTitleModal: "Informativa Cookie",
+			textAbstractModal: "Questo sito utilizza esclusivamente cookie e/o altri strumenti di tracciamento di tipo tecnico o analitici al solo scopo di analisi statistica del traffico senza risalire all'identità del singolo utente. In oltre, non raccoglie informazioni personali in modo automatico senza esplicito consenso. In alcuni casi sono utilizzate risorse esterne. Ai fini legislativi, a scopo informativo si chiede la consultazione della Privacy Policy e proseguire cliccando su \'Ho capito\'",
+			textButtonAccept: "Ho capito",
+			textButtonOpenPolicy: "Leggi l\'informativa",
+			textButtonResetCookie: "elimina",
+		},
+
+		modal: {
+			showOnPageLoad: 'cookie',
+		},
+
+		fixedicon: {
+			show: true
+		}
+	};
+
+	cookieAlert(config);
 	
 
 ## Ouput

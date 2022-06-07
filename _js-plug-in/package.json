@@ -1,12 +1,12 @@
 {
-    "name": "gdpr-commons-code",
-    "slug": "gdprcommons",
-    "version": "0.0.9",
-    "description": "GDPR Web facile ed open source",
+    "name": "gdpr-commons-js-plug-in",
+    "slug": "gdpr-js-plugin",
+    "version": "0.0.12",
+    "description": "GDPR JS Bootsratp based plug-in",
     "main": "index.html",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Tecnologie-per-Persone/GDPR-Commons-code.git"
+        "url": "git+https://github.com/domenicomonaco/gdpr-commons.git"
     },
     "keywords": [
         "GDRP",
@@ -22,7 +22,7 @@
     "author": "Tecnologie per Persone di Domenico Monaco",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Tecnologie-per-Persone/GDPR-Commons-code/issues"
+        "url": "https://github.com/domenicomonaco/gdpr-commons/issues"
     },
     "homepage": "https://www.gdprcommons.it",
     "scripts": {
