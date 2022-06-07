@@ -17,6 +17,11 @@
 
 GRPD Commones Code contiene alcune parti JavaScript e HTML utilizzabili nel proprio sito web utili ad implementare gli avvisi richiesti dal GDPR.
 
+
+### DEMO
+
+[DEMO](https://www.cdn.gdprcommons.it/latest/)
+
 ### Libreria
 
 * CDN Pubblica: [https://www.cdn.gdprcommons.it/
