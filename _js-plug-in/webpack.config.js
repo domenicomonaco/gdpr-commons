@@ -26,7 +26,7 @@ module.exports = {
         assetModuleFilename: 'assets/[hash][ext][query]',
         clean: true,
         library: {
-            name: 'MyLibrary',
+            name: 'GDPRCommons',
             type: 'umd',
             umdNamedDefine: true,
         }

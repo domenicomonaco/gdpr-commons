@@ -1,6 +1,5 @@
 "use strict";
 import { cookieAlert } from './cookieAlert.js';
-export default cookieAlert;
 
 const config = {
     text: {
