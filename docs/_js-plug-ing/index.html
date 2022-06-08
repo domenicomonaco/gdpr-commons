@@ -1,25 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GDRP Commons CODE</title><link href="gdpr-js-plugin.latest.css" rel="stylesheet"></head><body><h1 id="title">GDRP Commons CODE</h1><a class="gdprcommons-link" href="#GDPRCommons_open"></a><div class="gdprcommons-fixedicon"></div><div class="gdprcommons-notice"></div><pre>        
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GDRP Commons CODE </title>
-<script defer src="gdprcommons.0.0.9.js"></script><link href="gdprcommons.0.0.9.css" rel="stylesheet"></head>
-
-<body>
-
-    <h1 id="title">GDRP Commons CODE</h1>
-
-    <a class="gdprcommons-link" href="#GDPRCommons_open"></a>
-
-    <div class="gdprcommons-fixedicon"></div>
-
-    <div class="gdprcommons-notice"></div>
-
-
-    <script>
         const config = {
             text: {
                 linkPrivacyPolicy: "http://www.gdprcommons.it",
@@ -29,18 +9,17 @@
                 textButtonOpenPolicy: "Leggi l\'informativa",
                 textButtonResetCookie: "elimina",
             },
-
+        
             modal: {
-                showOnPageLoad: 'cookie', // ever | cookie
+                showOnPageLoad: 'cookie',
             },
-
+        
             fixedicon: {
                 show: true
             }
         };
-
-        cookieAlert(config);
-    </script>
-</body>
-
-</html>
+        
+        window.onload = function() {
+            cookieAlert(config);
+        };
+    </pre><script src="gdpr-js-plugin.latest.js"></script></body></html>
