@@ -13,6 +13,20 @@ require('@fortawesome/fontawesome-free');
 
 export function cookieAlert(config = null) {
 
+    let gdprcommonslink = document.createElement('a');
+    gdprcommonslink.setAttribute('href', 'gdprcommons-link');
+    gdprcommonslink.classList.add('gdprcommons-link');
+
+    let gdprcommonsfixedicon = document.createElement('div');
+    gdprcommonsfixedicon.classList.add('gdprcommons-fixedicon');
+
+    let gdprcommonsnotice = document.createElement('div');
+    gdprcommonsnotice.classList.add('gdprcommons-notice');
+
+    document.body.append(gdprcommonslink);
+    document.body.append(gdprcommonsfixedicon);
+    document.body.append(gdprcommonsnotice);
+
     //shows mode of modals
     const modalsho_ever = 'ever'; //is ever showd on page load
     const modalsho_cookie = 'cookie'; //is baes of acceptance cookie
@@ -33,7 +47,7 @@ export function cookieAlert(config = null) {
     };
 
     // INIT CONTENT DIVs
-    const gdprcommonsnotice = $(classnotice).html(cookiemodal);
+    gdprcommonsnotice = $(classnotice).html(cookiemodal);
 
     // Show modal
     function showCookieAlert() {
