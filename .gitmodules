@@ -1,0 +1,3 @@
+[submodule "gdpr-commons-web-toolkit"]
+	path = gdpr-commons-web-toolkit
+	url = https://github.com/domenicomonaco/gdpr-commons-web-toolkit.git
