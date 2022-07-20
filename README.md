@@ -38,4 +38,4 @@ L'iniziativa non è in nessun modo collegata con il progetto [Creative Commons](
 
 ### Licenza
 
-- [**Creative Commons - Attribuzione e Condividi allo stesso modo**](LICENSE.md)
+[GPDR Commons](https://www.gdprcommons.it) è distribuito attraverso licenza MIT. Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
