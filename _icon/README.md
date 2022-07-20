@@ -16,5 +16,5 @@
 
 ## MIT License
 
-Il codice di "GDPR COMMONS ICON" è distribuito attraverso licenza MIT.
+Le icone "GDPR COMMONS" sono distribuite attraverso licenza MIT.
 Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>

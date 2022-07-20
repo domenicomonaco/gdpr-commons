@@ -14,6 +14,4 @@
 [GDPR COMMONS](https://www.gdprcommons.it) ha l'obiettivo di favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili liberamente riutilizzabili attravero le licence Creative Commons.
 
 ## Creaitve Commons BY SA 3.0 License
-
-Il codice di "GDPR COMMONS TEXT" è distribuito attraverso licenza Creative Commons BY SA
-Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
+I testi "GDPR COMMONS" sono distribuiti attraverso licenza Creative Commons BY SA Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
