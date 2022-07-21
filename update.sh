@@ -1,4 +1,3 @@
-
 #!/bin/sh
 param1=$1;
 
