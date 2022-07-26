@@ -29,9 +29,9 @@ Il progetto è gestito da [Tecnologie per Persone di Domenico Monaco](https://ww
 
 Copyright (C) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
 
-* Testi Licenza [Attribution 4.0 International](_text/LICENSE)
-* Icone Licenza [MIT](_icon/LICENSE)
-* Web Tookit Licenza [MIT](_web_toolkit/LICENSE)
+* Testi Licenza [Attribution 4.0 International](https://github.com/domenicomonaco/gdpr-commons/tree/main/_text/LICENSE)
+* Icone Licenza [MIT](https://github.com/domenicomonaco/gdpr-commons/tree/main/_icon/LICENSE)
+* Web Tookit Licenza [MIT](https://github.com/domenicomonaco/gdpr-commons/tree/main/_web_toolkit/LICENSE)
 
 ## Note
 

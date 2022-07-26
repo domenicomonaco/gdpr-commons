@@ -1,6 +1,6 @@
 # <img align="left" style="margin:5px" src="https://github.com/domenicomonaco/gdpr-commons/blob/main/_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS TESTI](https://www.gdprcommons.it)
 
-**Testi e template informativi**
+**Icone ed elementi grafici**
 
 ## Informative Privacy e Policy GDPR semplificate
 
@@ -28,6 +28,7 @@ Il progetto è gestito da [Tecnologie per Persone di Domenico Monaco](https://ww
 [GPDR Commons](https://www.gdprcommons.it) è distribuito attraverso licenza MIT. 
 
 Copyright (C) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
+
 
 * Testi Licenza [Attribution 4.0 International](https://github.com/domenicomonaco/gdpr-commons/tree/main/_text/LICENSE)
 * Icone Licenza [MIT](https://github.com/domenicomonaco/gdpr-commons/tree/main/_icon/LICENSE)
