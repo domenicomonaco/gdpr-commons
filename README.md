@@ -6,14 +6,11 @@ Contatti: [info@gdprcommons.it](mailto:info@gdprcommons.it)
 Web site: [www.gdprcommons.it](https://www.gdprcommons.it)
 
 
-## L'iniziativa
+## Il progetto
 
-[GDPR COMMONS](https://www.gdprcommons.it) è un progetto di [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) liberamente ispirata all'omonima [iniziativa del Garante della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) e alle [Creative Commons](https://creativecommons.org/).
+[GDPR COMMONS](https://www.gdprcommons.it) ha l'obiettivo di semplificare le informative privacy e policy GDPR attraverso modelli semplificati ed un sistema modulare di testi, icone e componenti Web / UI.
 
-[GDPR COMMONS](https://www.gdprcommons.it) ha l'obiettivo di semplificare le informative privacy e policy GDPR attraverso modelli semplificati ed un sistema modulare di testi, icone.
-
-
-Il progetto è libero e aperto a tutti. Coperto da Copyright, ma distribuito su licenze open-source.
+[GDPR COMMONS](https://www.gdprcommons.it) è un progetto di [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) liberamente ispirato all'omonima [iniziativa del Garante della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) e alle [Creative Commons](https://creativecommons.org/).
 
 ### GDPR Commons Stater Kit
 
