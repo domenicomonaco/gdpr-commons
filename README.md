@@ -1,32 +1,39 @@
 # <img align="left" style="margin:5px" src="_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS](https://www.gdprcommons.it)
 
-## Modelli di informative e Privacy Policy semplificate
+## Informative Privacy e Policy GDPR semplificate
 
+Contatti: [info@gdprcommons.it](mailto:info@gdprcommons.it)
+Web site: [www.gdprcommons.it](https://www.gdprcommons.it)
 
-
-[info@gdprcommons.it](mailto:info@gdprcommons.it)
-
-### Sponsored by
-
-[<img align="left" style="margin:5px" src="http://cdn.tecnologieperpersone.it/img/dmonaco_happy_hacking.png" height="64" />](https://blog.domenicomonaco.it)
-
-[<img style="margin:5px;" src="http://cdn.tecnologieperpersone.it/img/tecnologie-per-persone-logo.png" height="64" />](https://tecnologieperpersone.it)
 
 ## L'iniziativa
 
-[GDPR COMMONS](https://www.gdprcommons.it) ha l'obiettivo di favorire la diffusione di modelli di Informative GPDR e Privacy Policy semplificate e comprensibili liberamente riutilizzabili attravero le licence Creative Commons.
+[GDPR COMMONS](https://www.gdprcommons.it) è un progetto di [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) liberamente ispirata all'omonima [iniziativa del Garante della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) e alle [Creative Commons](https://creativecommons.org/).
 
-L'iniziativa è libera, aperta a tutti e ispirata all' [iniziativa](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) del Garante della Privacy ma **è totalmente indipendente e separata.**
+[GDPR COMMONS](https://www.gdprcommons.it) ha l'obiettivo di semplificare le informative privacy e policy GDPR attraverso modelli semplificati ed un sistema modulare di testi, icone.
+
+
+Il progetto è libero e aperto a tutti. Coperto da Copyright, ma distribuito su licenze open-source.
 
 ### GDPR Commons Stater Kit
 
-Lo **Starter Kit del GDPR Commons** fornisce alcuni elementi (non tutti) per rendere *GDPR Compliance* la propria applicazione web.
+Attraverso lo **Starter Kit del GDPR Commons** è possibile iniziare a costruire il proprio sistema informativo in materia privacy e data protection.
 
-E' possibile utilizzare **Starter Kit** già confezionato nell'apposita cartella, oppure attraverso le rispettive componenti: JS Plug-in, Icon e Text.
 
-### Chi siamo
+## Autori e sponsor
 
-L'iniziativa è gestita da [Tecnologie per Persone di Domenico Monaco](https://www.gdprcommons.it/#:~:text=%C3%A8%20gestita%20da-,Tecnologie%20per%20Persone%20di%20Domenico%20Monaco,-ma%20chiunque%20pu%C3%B2) ma chiunque può partecipare. Scrivici e indica le modalità con cui vuoi partecipare
+L'iniziativa è gestita da [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) ma chiunque può partecipare. Scrivici quando vuoi e indica le modalità con cui vuoi partecipare
+
+
+[<img align="left" style="margin:5px" src="http://cdn.tecnologieperpersone.it/img/dmonaco_happy_hacking.png" height="32" />](https://blog.domenicomonaco.it)
+
+[<img style="margin:5px;" src="http://cdn.tecnologieperpersone.it/img/tecnologie-per-persone-logo.png" height="32" />](https://tecnologieperpersone.it)
+
+## Licenza
+
+[GPDR Commons](https://www.gdprcommons.it) è distribuito attraverso licenza MIT. Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
+
+## Note
 
 ### Avvertenza
 
@@ -35,7 +42,3 @@ L'iniziativa non è in nessun modo collegata con il progetto [Creative Commons](
 ### Responsabilità
 
 [GPDR Commons](https://www.gdprcommons.it) ha lo scopo di favorire la diffusione di modelli di **Informative GPDR e Privacy Policy** semplificate e comprensibili. Pertanto, per una corretta definizione dei dettagli si rimanda alla consultazione delle fonti ufficiali. Il gestore, i supporter e contributor di [GPDR Commons](https://www.gdprcommons.it) si ritengono espressamente sollevati da qualsiasi responsabilità conseguente ad un uso improprio, errato utilizzo o errata definizione dei dettagli in merito a *Informative GDPR e Informative Privacy*
-
-### Licenza
-
-[GPDR Commons](https://www.gdprcommons.it) è distribuito attraverso licenza MIT. Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
