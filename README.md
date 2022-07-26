@@ -2,8 +2,8 @@
 
 ## Informative Privacy e Policy GDPR semplificate
 
-Contatti: [info@gdprcommons.it](mailto:info@gdprcommons.it)
-Web site: [www.gdprcommons.it](https://www.gdprcommons.it)
+* Email: [info@gdprcommons.it](mailto:info@gdprcommons.it)
+* Web site: [www.gdprcommons.it](https://www.gdprcommons.it)
 
 
 ## Il progetto
@@ -12,15 +12,10 @@ Web site: [www.gdprcommons.it](https://www.gdprcommons.it)
 
 [GDPR COMMONS](https://www.gdprcommons.it) è un progetto di [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) liberamente ispirato all'omonima [iniziativa del Garante della Privacy](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9684797) e alle [Creative Commons](https://creativecommons.org/).
 
-### GDPR Commons Stater Kit
-
-Attraverso lo **Starter Kit del GDPR Commons** è possibile iniziare a costruire il proprio sistema informativo in materia privacy e data protection.
-
 
 ## Autori e sponsor
 
-L'iniziativa è gestita da [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) ma chiunque può partecipare. Scrivici quando vuoi e indica le modalità con cui vuoi partecipare
-
+Il progetto è gestito da [Tecnologie per Persone di Domenico Monaco](https://www.tecnologieperpersone.it) ma chiunque può partecipare.
 
 [<img align="left" style="margin:5px" src="http://cdn.tecnologieperpersone.it/img/dmonaco_happy_hacking.png" height="32" />](https://blog.domenicomonaco.it)
 
@@ -28,7 +23,13 @@ L'iniziativa è gestita da [Tecnologie per Persone di Domenico Monaco](https://w
 
 ## Licenza
 
-[GPDR Commons](https://www.gdprcommons.it) è distribuito attraverso licenza MIT. Copyright (c) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
+[GPDR Commons](https://www.gdprcommons.it) è distribuito attraverso licenza MIT. 
+
+Copyright (C) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
+
+* [Testi](_text/) Licenza [Attribution 4.0 International](_text/LICENSE)
+* [Icone](_icon/) Licenza [MIT](_icon/LICENSE)
+* [Web Tookit](_web_toolkit/) Licenza [MIT](_web_toolkit/LICENSE)
 
 ## Note
 
