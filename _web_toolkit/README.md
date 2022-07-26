@@ -1,4 +1,4 @@
-# <img align="left" style="margin:5px" src="../_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS WEB TOOLKIT](https://www.gdprcommons.it)
+# <img align="left" style="margin:5px" src="https://github.com/domenicomonaco/gdpr-commons/tree/main/_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS WEB TOOLKIT](https://www.gdprcommons.it)
 
 **Componenti Web ed element UI/UX**
 
@@ -29,9 +29,9 @@ Il progetto è gestito da [Tecnologie per Persone di Domenico Monaco](https://ww
 
 Copyright (C) 2022 Tecnologie per Persone di Domenico Monaco <domenico@tecnologieperpersone.it>
 
-* [Testi](_text/) Licenza [Attribution 4.0 International](_text/LICENSE)
-* [Icone](_icon/) Licenza [MIT](_icon/LICENSE)
-* [Web Tookit](_web_toolkit/) Licenza [MIT](_web_toolkit/LICENSE)
+* Testi Licenza [Attribution 4.0 International](https://github.com/domenicomonaco/gdpr-commons/tree/main/_text/LICENSE)
+* Icone Licenza [MIT](https://github.com/domenicomonaco/gdpr-commons/tree/main/_icon/LICENSE)
+* Web Tookit Licenza [MIT](https://github.com/domenicomonaco/gdpr-commons/tree/main/_web_toolkit/LICENSE)
 
 ## Note
 
