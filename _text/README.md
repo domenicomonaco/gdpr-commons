@@ -1,4 +1,4 @@
-# <img align="left" style="margin:5px" src="https://github.com/domenicomonaco/gdpr-commons/tree/main/_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS TESTI](https://www.gdprcommons.it)
+# <img align="left" style="margin:5px" src="https://github.com/domenicomonaco/gdpr-commons/blob/main/_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS TESTI](https://www.gdprcommons.it)
 
 **Testi e template informativi**
 
