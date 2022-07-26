@@ -1,0 +1,44 @@
+{
+    "name": "gdpr-commons-web-toolkit",
+    "slug": "gdpr-commons-web-toolkit",
+    "version": "0.1.0",
+    "description": "GDPR Commons Web Toolkit",
+    "main": "src/index.html",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/domenicomonaco/gdpr-commons-web-toolkit.git"
+    },
+    "keywords": [
+        "GDRP",
+        "cookie",
+        "privacy",
+        "banner",
+        "bootstrap",
+        "javascript",
+        "html",
+        "css",
+        "private"
+    ],
+    "author": "Tecnologie per Persone di Domenico Monaco",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/domenicomonaco/gdpr-commons-web-toolkit/issues"
+    },
+    "homepage": "https://www.gdprcommons.it",
+    "scripts": {
+        "start": "parcel src/index.html --open",
+        "docs": "parcel build --public-url 'https://domenicomonaco.github.io/gdpr-commons-web-toolkit/' --no-content-hash src/index.html src/* -d docs",
+        "clean": "node clean.js",
+        "builds": "node builds.js"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "prepend-file": "^2.0.1",
+        "shelljs": "^0.8.5",
+        "upath": "^1.2.0"
+    },
+    "devDependencies": {
+        "@babel/core": "7.2.0",
+        "parcel-bundler": "^1.6.1"
+    }
+}
