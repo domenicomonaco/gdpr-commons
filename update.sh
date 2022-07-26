@@ -1,10 +1,8 @@
 #!/bin/sh
 param1=$1;
 
-git submodule foreach update --init
-git submodule foreach update;
-git submodule foreach git reset;
-git submodule foreach git pull --force; 
+rm -rf _webtoolkit;
+git clone https://github.com/domenicomonaco/gdpr-commons-web-toolkit.git _webt_oolkit
 git add . ; 
 git commit -m $param1; 
 git fetch;
