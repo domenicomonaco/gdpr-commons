@@ -1,6 +1,6 @@
 # <img align="left" style="margin:5px" src="../_icon/logo/logo-gdpr-commons-64.png?raw=true" height="42" /> [GDPR COMMONS WEB TOOLKIT](https://www.gdprcommons.it)
 
-**Icone ed elementi grafici**
+**Componenti Web ed element UI/UX**
 
 ## Informative Privacy e Policy GDPR semplificate
 
