@@ -130,10 +130,7 @@
 }
 
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-content {
-    max-height: 170px;
-    background-image: linear-gradient(transparent, #e3e3e3);
-    overflow-x: scroll;
-    border-bottom: 1px solid #989898;
+    font-size: 9px;
 }
 
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-content p {

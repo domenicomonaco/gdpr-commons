@@ -24,7 +24,7 @@ function cpDist() {
         file.match(/\.js$/) ||
         file.match(/\.css$/)) {
         const content =
-  `/** 
+  `/**
     @ name ${pjson.name}
     @ version ${pjson.version}
     @ author ${pjson.author}
@@ -45,7 +45,7 @@ function cpDist() {
       sh.mkdir('-p', destPath);
     }
     files.forEach(file => {
-      console.log(sh.cp('-Rf', file, destPath));
+      sh.cp('-Rf', file, destPath);
     });
   }, 3000);
 

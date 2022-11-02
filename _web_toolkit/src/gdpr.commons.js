@@ -47,7 +47,7 @@ const config = {
         textCredits: "GDPRCommons.it",
         textVersion: "v0.1.0",
         textLicense: "MIT"
-        
+
     }
 };
 
@@ -86,12 +86,11 @@ window.onload = function () {
     </div>
 
       <div class="gdpr-commons-modal-footer">
-        <button id="gdpr-commons-button-reset" class="buttons">${config.text.textButtonResetCookie}</button>
         <button id="gdpr-commons-button-accept" class="buttons">${config.text.textButtonAccept}</button>
     </div>
     <div id="gdpr-commons-modal-credits">
-        <span>Proudly <a title="${config.text.textCredits}" target="_blank" href="https://www.gdprcommons.it">
-        ${config.text.textCredits}</a> ${config.text.textLicense} - ${config.text.textVersion} </spans>
+        <span><a title="${config.text.textCredits}" target="_blank" href="https://www.gdprcommons.it">
+        ${config.text.textCredits}</a> ${config.text.textLicense}
     </div>
   </div>
 
@@ -132,7 +131,7 @@ window.onload = function () {
        setTimeout(hideViews(),1500);
     });
 
-    document.getElementById("gdpr-commons-button-reset").addEventListener('click', function () {
+    /*document.getElementById("gdpr-commons-button-reset").addEventListener('click', function () {
 
         cookieValue = {
             date: Date(),
@@ -141,7 +140,7 @@ window.onload = function () {
 
         setCookie(config.text.cookieName, cookieValue, config.text.cookieDaysExp);
         location.reload();
-    });
+    });*/
 
     document.getElementById("gdpr-commons-button-fixedicon").addEventListener('click',
         function () {
