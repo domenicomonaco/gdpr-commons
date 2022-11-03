@@ -1,6 +1,12 @@
 /** AUTHOR: Tecnologie per Persone di Domenico Monaco - LICENSE: MIT - LINK: https://www.gdprcommons.it */
 
-#GDPR_Commons {
+#GDPR_Commons>* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
     font-family: 'Trebuchet MS', sans-serif;
 }
 
@@ -111,7 +117,6 @@
     }
 }
 
-
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-middle,
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-footer,
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-header {
@@ -120,9 +125,9 @@
     justify-content: space-between;
 }
 
-
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-header .gdpr-commons-modal-title h3 {
     margin: 0px;
+    margin-bottom: 5px;
 }
 
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-middle {
@@ -135,6 +140,7 @@
 
 #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-content p {
     text-align: justify;
+    margin: 0px;
 }
 
 #GDPR_Commons button.buttons,
@@ -169,9 +175,10 @@
         gap: 0.6rem;
     }
 
-    #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-middle>*,
-    #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-footer>*,
-    #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-header>* {
+    #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-middle > *,
+    #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-footer > *,
+    #GDPR_Commons #gdpr-commons-modal .gdpr-commons-modal-header > *,
+    #GDPR_Commons #gdpr-commons-modal-credits {
         display: block;
         width: 100%;
         text-align: center;

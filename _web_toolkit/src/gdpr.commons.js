@@ -8,7 +8,7 @@ function eraseCookie(name) {
 
 function setCookie(name, value, days) {
     value = JSON.stringify(value);
-    var expires = "";
+    let expires = "";
     if (days) {
         let date = new Date();
         date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
@@ -20,8 +20,8 @@ function setCookie(name, value, days) {
 function getCookie(name) {
     let nameEQ = name + "=";
     let ca = document.cookie.split(';');
-    for (var i = 0; i < ca.length; i++) {
-        var c = ca[i];
+    for (let i = 0; i < ca.length; i++) {
+        let c = ca[i];
         while (c.charAt(0) == ' ') c = c.substring(1, c.length);
         if (c.indexOf(nameEQ) == 0) {
             let out = c.substring(nameEQ.length, c.length);
@@ -80,7 +80,8 @@ window.onload = function () {
 
     <div class="gdpr-commons-modal-middle">
       <div>
-        <span id="last-consent-state"></span> <em><span id="last-consent-date"></span></em>
+        <span id="last-consent-state">
+        </span> <em><span id="last-consent-date"></span></em>
       </div>
       <a href="${linkprivacy}">${config.text.textButtonOpenPolicy}</a>
     </div>
@@ -90,7 +91,7 @@ window.onload = function () {
     </div>
     <div id="gdpr-commons-modal-credits">
         <span><a title="${config.text.textCredits}" target="_blank" href="https://www.gdprcommons.it">
-        ${config.text.textCredits}</a> ${config.text.textLicense}
+        ${config.text.textCredits}</a>
     </div>
   </div>
 
@@ -117,38 +118,56 @@ window.onload = function () {
         document.getElementById("gdpr-commons-modal").classList.add('fadeIN-display');
     }
 
-    document.getElementById("gdpr-commons-button-accept").addEventListener('click', function () {
+    const buttonaccept = document.getElementById("gdpr-commons-button-accept");
+    if (buttonaccept != null) {
+        buttonaccept.addEventListener('click', function () {
 
-        cookieValue = {
-            date: Date(),
-            accepted: true,
-        };
+            cookieValue = {
+                date: Date(),
+                accepted: true,
+            };
 
-        setCookie(config.text.cookieName, cookieValue, config.text.cookieDaysExp);
-        document.getElementById("last-consent-state").innerHTML = config.text.textAccepted;
-        document.getElementById("last-consent-date").innerHTML = new Date(cookieValue.date).toLocaleDateString();
+            setCookie(config.text.cookieName, cookieValue, config.text.cookieDaysExp);
+            document.getElementById("last-consent-state").innerHTML = config.text.textAccepted;
+            document.getElementById("last-consent-date").innerHTML = new Date(cookieValue.date).toLocaleDateString();
 
-       setTimeout(hideViews(),1500);
-    });
-
-    /*document.getElementById("gdpr-commons-button-reset").addEventListener('click', function () {
-
-        cookieValue = {
-            date: Date(),
-            accepted: false,
-        };
-
-        setCookie(config.text.cookieName, cookieValue, config.text.cookieDaysExp);
-        location.reload();
-    });*/
-
-    document.getElementById("gdpr-commons-button-fixedicon").addEventListener('click',
-        function () {
-            showViews();
+            setTimeout(hideViews(), 1500);
         });
+    } else {
+        console.warn('button accept not found');
+    }
 
-    var eraser = document.getElementsByClassName('eraseCookieGDPR');
-    for (var i = 0; i < eraser.length; i++) {
+    const buttonreset = document.getElementById("gdpr-commons-button-reset");
+    if (buttonreset != null) {
+
+        buttonreset.addEventListener('click', function () {
+
+            cookieValue = {
+                date: Date(),
+                accepted: false,
+            };
+
+            setCookie(config.text.cookieName, cookieValue, config.text.cookieDaysExp);
+            location.reload();
+        });
+    } else {
+        console.warn('button reset not found');
+    }
+
+    const fixediconbadge = document.getElementById("gdpr-commons-button-fixedicon");
+    if (fixediconbadge != null) {
+
+        fixediconbadge.addEventListener('click',
+            function () {
+                showViews();
+            });
+
+    } else {
+        console.warn('fixed icon badge not found');
+    }
+
+    let eraser = document.getElementsByClassName('eraseCookieGDPR');
+    for (let i = 0; i < eraser.length; i++) {
         eraser[i].addEventListener('click', function () {
             console.warn(config.text.cookieName, 'erased');
             eraseCookie(config.text.cookieName);
